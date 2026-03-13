@@ -27,7 +27,7 @@ Adjusted Close Price
 
 Volume
 
-## **3. Data Preparation**
+## 3. Data Preparation
 
 Data preprocessing steps include:
 
